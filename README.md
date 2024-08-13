@@ -12,6 +12,10 @@
 <p align="center"><i>Loved the project? 
 <br>
 <p align="left">List of Team Members&Contributors:
+  <br>
 -- Shikha Dhunna
+  <br>
 -- Ransbort
+  <br>
 -- Chard Peter
+<br>
